@@ -1,0 +1,11 @@
+# 啟用 64 位元模式
+arm_64bit=1
+
+# 設定 UART
+enable_uart=1
+
+# 關閉音訊（釋放 GPIO）
+dtparam=audio=off
+
+# 設定核心名稱
+kernel=kernel8.img
