@@ -407,7 +407,7 @@ make
 
 ### 4. 準備 SD 卡
 1. 格式化 SD 卡為 FAT32
-2. 從 <a href = "https://github.com/raspberrypi/firmware/tree/master/boot" Raspberry Pi 官方 </a> 下載，將boot裡面的全部內容複製到 SD 卡：
+2. 從 <a href = "https://github.com/raspberrypi/firmware/tree/master/boot"> Raspberry Pi 官方 </a> 下載，將boot裡面的全部內容複製到 SD 卡：
 3. 複製 config.txt 到 SD 卡，取代掉原有的。
 4. 複製編譯好的 kernel8.img 到 SD 卡，取代掉原有的。
 
