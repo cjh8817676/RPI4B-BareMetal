@@ -423,7 +423,7 @@ make
 
 ## LED 閃爍示範影片
 
-<video src="./21410571-3aa0-418a-a135-07b4e82d5aa5.mp4" controls width="480"></video>
+<video src="[./21410571-3aa0-418a-a135-07b4e82d5aa5.mp4](https://github.com/cjh8817676/RPI4B-BareMetal/issues/1)" controls width="480"></video>
 
 ## 進階功能範例
 
