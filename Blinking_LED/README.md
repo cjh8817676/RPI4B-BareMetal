@@ -421,6 +421,8 @@ make
 ### 6. 測試
 將 SD 卡插入 Raspberry Pi 4B 並上電，LED 應該會開始閃爍。
 
+<video src="./21410571-3aa0-418a-a135-07b4e82d5aa5.mp4"></video>
+
 ## 進階功能範例
 
 ### 按鈕輸入範例
